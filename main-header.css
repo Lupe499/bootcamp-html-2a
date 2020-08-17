@@ -2,4 +2,6 @@
 @import './header-section.css';
 header{
     margin-top: 0.5%;
+    margin: 0.5% auto 0;
+    max-width: 1920px;
 }

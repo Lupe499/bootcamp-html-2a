@@ -88,3 +88,7 @@ ul>li{
     border-top: white solid 1px;
     grid-area: 2/1/2/-1;
 }
+footer{
+    margin: 10% auto 0;
+    max-width: 1920px;
+}
