@@ -1,5 +1,7 @@
 .mainArticle__summary {
-	color: hsl(0, 0%, 20%);
+	color: #666;
 	font-family: Georgia, 'Times New Roman', Times, serif;
-	font-size: 0.93em;
+	font-size: 1.125em;
+	margin: 1em 0;
+	line-height: 1.5em;
 }

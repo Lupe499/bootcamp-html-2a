@@ -2,11 +2,9 @@
 @import'./header-navigation.css';
 @import './main-header.css';
 @import './section-article.css';
+@import './main-footer.css';
 *{
-    margin: 0;
     padding: 0;
-}
-#wrapper{
-    max-width: 980px;
-    margin: 0 auto;
+    margin: 0;
+    box-sizing: border-box;
 }

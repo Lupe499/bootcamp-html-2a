@@ -8,10 +8,12 @@
 .coverPhoto__caption {
 	grid-column-start: 1;
 	grid-column-end: 2;
-	font-size: 0.7em;
-	color: hsl(0, 0%, 20%);
+	font-size: 0.73em;
+	line-height: 1.3em;
+	color: #666;
 	padding-right: 1em;
 	text-align: right;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .coverPhoto__image {
@@ -20,5 +22,12 @@
 }
 
 .caption__photographer {
-	color: hsl(0, 0%, 16%);
+	font-size: 0.8em;
+	padding-top: 0.5em;
+	color: #666;
+	font-weight: 600;
+	font-style: normal;
+}
+.fa-camera{
+	font-size: 1.4em;
 }
