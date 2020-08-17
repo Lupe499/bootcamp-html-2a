@@ -3,6 +3,7 @@
 @import './main-header.css';
 @import './section-article.css';
 @import './main-footer.css';
+@import './second-article.css';
 *{
     padding: 0;
     margin: 0;

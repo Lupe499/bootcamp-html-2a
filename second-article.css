@@ -1,0 +1,19 @@
+.secondArticle{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin-top: 5%;
+}
+.articleNav__div p{
+    color: #ccc;
+}
+.articleNav__div{
+    margin-bottom: 5%;
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 2%;
+}
+.secondArticle header{
+    grid-area: 1/1/2/3;
+}
+.secondArticle__articleNav{
+    grid-area: 2/1/3/2;
+}
